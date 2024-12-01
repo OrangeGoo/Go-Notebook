@@ -3,7 +3,7 @@
 // 布尔型， 数字类型， 字符串类型
 // 派生类型：指针类型、数组类型、结构化类型、Channel类型、函数类型、切片类型、接口类型、Map类型
 
-package main
+package Foundation
 
 import "fmt"
 
