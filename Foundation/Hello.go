@@ -6,7 +6,7 @@ import "fmt"
 // 	fmt.Println("Hello World!")
 // }
 
-func main0() {
+func Hello() {
 	var stockcode = 123
 	var enddate = "2020-12-31"
 	var url = "code=%d endDate=%s\n"
